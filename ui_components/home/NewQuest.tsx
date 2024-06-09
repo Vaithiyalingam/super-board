@@ -49,7 +49,7 @@ export const NewQuest = () => {
                 img={item.img}
                 overlapImgs={item.overlapImgs}
                 bottomRightImg={item.bottomRightImg}
-                className="bg-containerBg h-[235px]"
+                className="bg-containerBg h-[265px]"
                 data={item.data}
                 dataName={item.dataName}
               />
