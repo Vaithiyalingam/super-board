@@ -1,0 +1,43 @@
+
+.title_bold{
+    @apply font-bold text-[15px] leading-[25px]
+}
+
+.title_btn_medium{
+    @apply font-semibold text-[15px] leading-[25px]
+}
+
+.subtitle_normal{
+    @apply font-normal text-[10px] leading-3
+}
+
+.subtitle_medium{
+    @apply font-semibold text-[10px] leading-3
+}
+
+.subtitle_bold{
+    @apply font-bold text-[10px] leading-[14px]
+}
+
+.desc_normal{
+    @apply font-normal text-[8px] leading-[8px]
+}
+
+.title_medium{
+    @apply font-semibold text-[6px] leading-[8px]
+}
+
+.title_normal{
+    @apply font-normal text-[6px] leading-[8px]
+}
+.title_bold{
+    @apply font-bold text-[6px] leading-[8px]
+}
+
+.heading_bold{
+    @apply font-bold text-[20px] leading-7
+}
+
+.heading2_bold{
+    @apply font-bold text-[12px] leading-[17px]
+}
